@@ -1,0 +1,26 @@
+td.td_normal {
+    width: 300;
+}
+
+.name_font {
+    font-size: 30pt;
+}
+
+.name_font {
+    font-size: 30pt;
+}
+
+.mode_font_1 {
+    font-size: 30pt;
+    color: blue;
+    border:6px #FF0000 solid;
+}
+
+.mode_font_2 {
+    font-size: 30pt;
+    color: green;
+}
+
+.font_quiz {
+    font-size: 30pt;
+}
